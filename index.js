@@ -1,6 +1,6 @@
 
-console.log("Max funktionen");
+console.log("Min funktionen");
 
-let result = Math.max(16, 44);
+let result = Math.min(4, 81);
 
 console.log(result);
